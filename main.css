@@ -1,0 +1,53 @@
+body main{
+    background-color: #ff9999;
+}
+
+body .page {
+    background-color: #ffe6e6;
+}
+
+.avatar {
+    border-radius: 50%;
+    background-color: red;
+    width: 135px;
+    height: 135px;
+    padding:10px;
+    margin-left: 50px;
+}
+
+.avatar:hover {
+    background-color: #4da3ff;
+}
+
+.credits p{
+    margin-right: 20px;
+}
+
+.centered {
+    margin: 30px;
+}
+
+.centered .name {
+    text-align: center;
+}
+
+.centered .job {
+    text-align: center;
+}
+
+.centered .contacts {
+    text-align: right;
+}
+
+.centered h2 {
+    text-align: center;
+}
+
+.divider {
+    position: relative;
+}
+
+.row .full-size {
+    width: 100%;
+    border-color: red;
+}
