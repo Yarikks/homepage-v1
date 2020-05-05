@@ -1,53 +1,53 @@
-body main{
-    background-color: #ff9999;
-}
-
-body .page {
+body main {
+    background-color: #f99;
+  }
+  
+  body .page {
     background-color: #ffe6e6;
-}
-
-.avatar {
+  }
+  
+  .avatar {
     border-radius: 50%;
     background-color: red;
     width: 135px;
     height: 135px;
-    padding:10px;
+    padding: 10px;
     margin-left: 50px;
-}
-
-.avatar:hover {
+  }
+  
+  .avatar:hover {
     background-color: #4da3ff;
-}
-
-.credits p{
+  }
+  
+  .credits p {
     margin-right: 20px;
-}
-
-.centered {
+  }
+  
+  .centered {
     margin: 30px;
-}
-
-.centered .name {
+  }
+  
+  .centered .name {
     text-align: center;
-}
-
-.centered .job {
+  }
+  
+  .centered .job {
     text-align: center;
-}
-
-.centered .contacts {
+  }
+  
+  .centered .contacts {
     text-align: right;
-}
-
-.centered h2 {
+  }
+  
+  .centered h2 {
     text-align: center;
-}
-
-.divider {
+  }
+  
+  .divider {
     position: relative;
-}
-
-.row .full-size {
+  }
+  
+  .row .full-size {
     width: 100%;
     border-color: red;
-}
+  }
